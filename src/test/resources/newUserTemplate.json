@@ -1,0 +1,8 @@
+{
+  "first_name": "#{firstName}",
+  "last_name": "#{lastName}",
+  "nickname": "#{nickname}",
+  "email": "#{email}",
+  "country": "#{country}",
+  "password": "#{password}"
+}
